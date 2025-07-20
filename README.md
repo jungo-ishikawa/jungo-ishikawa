@@ -15,22 +15,22 @@
 
 ## Embedded System
 
-![My Skills](https://skillicons.dev/icons?perline=5&i=cpp,py,ros)
+![My Skills](https://skillicons.dev/icons?perline=4&i=cpp,py,bash,ros)
 
 ## Web
 
-![My Skills](https://skillicons.dev/icons?perline=5&i=html,css,js,ts,react)
+![My Skills](https://skillicons.dev/icons?perline=4&i=html,css,js,ts,react,jquery)
 
 </td>
 <td width="50%" valign="top">
 
 ## Environment
 
-![My Skills](https://skillicons.dev/icons?perline=5&i=apple,ubuntu,vscode)
+![My Skills](https://skillicons.dev/icons?perline=4&i=apple,ubuntu,vscode,anaconda)
 
 ## Others
 
-![My Skills](https://skillicons.dev/icons?perline=5&i=docker,github,jenkins,ps)
+![My Skills](https://skillicons.dev/icons?perline=4&i=docker,github,gitlab,jenkins,gcp,ps)
 
 </td>
 </tr>
